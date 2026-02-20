@@ -7,3 +7,5 @@ default allow := false
 allow if {
     input.message == "test"
 }
+
+default output := "From client1"
