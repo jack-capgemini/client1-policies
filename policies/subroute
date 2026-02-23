@@ -1,0 +1,3 @@
+package client1.basic.subroute.client1
+
+default something := "Hello World!"
