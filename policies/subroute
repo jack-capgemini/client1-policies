@@ -1,4 +1,4 @@
-package client1.basic.subroute
+package client1.subroute.specific
 
 import rego.v1
 
